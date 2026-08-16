@@ -1,0 +1,16 @@
+Step 1:Start
+Step 2:Take/Accept Citizen Name, Age and Nationality
+Step 3:Check the Age and Nationality
+Step 4:If Age>=18 && Nationality==Indian
+            Display "Eligible to vote"
+
+       Else if Age>=18 && Nationality!=Indian
+            Display "Not Eligible to vote as they are not Indian"
+
+       Else if Age<18 && Nationality==Indian
+            Display "Not eligible to vote as they are Underage"
+
+       Else
+            Display "Not eligible to vote as they are Underage and not an Indian citizen"
+
+Step 5:Stop
